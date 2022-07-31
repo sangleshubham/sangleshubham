@@ -28,6 +28,8 @@
 
 - ⚡ Fun fact: Pushing valorant rank to plat 1 🎮  
 
+- 🤳🏻🤘🏻  ![Profile views counter](https://komarev.com/ghpvc/?username=sangleshubham&&style=flat-square)  
+
 
 </td><td valign="top" width="50%">
 
