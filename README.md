@@ -24,36 +24,28 @@
 
 <br/>  
 
-<table><tr><td valign="middle" width="50%">
-
-- 🔭 I’m currently working on CiTi project  
-  
-
-- 🌱 I’m currently learning Node.JS and System Designing 💻  
-  
-
-- ❓ Ask me anything about MEAN and DJango stack. 📚  
-  
-
-- ⚡ Fun fact: Pushing valorant rank to plat 1 🎮  
-
-- 🤳🏻🤘🏻  ![Profile views counter](https://komarev.com/ghpvc/?username=sangleshubham&&style=flat-square)  
-
-
-</td><td valign="top" width="50%">
-
 <div align="center">
-  ![videoplayback (2)](https://github.com/user-attachments/assets/e4cef480-48c2-468d-bb2b-d4ff502b3ff4)
+  <table width="80%" border="0">
+    <tr>
+      <td valign="middle" width="50%" align="left" style="padding: 15px;">
+        <ul style="list-style: none; padding: 0; font-size: 18px;">
+          <li>🔭 I’m currently working on <b>CiTi project</b></li><br>
+          <li>🌱 I’m currently learning <b>Node.js</b> and <b>System Designing</b> 💻</li><br>
+          <li>❓ Ask me anything about <b>MEAN and Django stack</b> 📚</li><br>
+          <li>⚡ Fun fact: <b>Pushing Valorant rank to Plat 1</b> 🎮</li><br>
+          <li>🤳🏻🤘🏻 <img src="https://komarev.com/ghpvc/?username=sangleshubham&&style=flat-square" alt="Profile views counter"/></li>
+        </ul>
+      </td>
+      <td valign="middle" width="50%" align="center" style="padding: 15px;">
+        <img src="https://github.com/user-attachments/assets/e4cef480-48c2-468d-bb2b-d4ff502b3ff4" alt="Profile GIF" 
+             style="width: 220px; height: auto; border-radius: 8px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-</div>  
-
-
-</td></tr></table>  
 
 <br/>  
-
-
-
 
 ## Github Stats 
 <table><tr<td valign="top" width="50%">
