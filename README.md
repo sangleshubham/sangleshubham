@@ -43,7 +43,8 @@
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+  ![videoplayback (2)](https://github.com/user-attachments/assets/e4cef480-48c2-468d-bb2b-d4ff502b3ff4)
+
 </div>  
 
 
