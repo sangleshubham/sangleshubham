@@ -26,18 +26,11 @@ If it needs to work on 10k Machines **( Daily Drivers ⚙️ )** </br>
 
 When it needs to scale on my system only **(Personal Projects)**</br>
 	![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=for-the-badge&logo=tampermonkey&logoColor=white)
+<br>
 
-
-## 🚀 Current Focus
-
-I'm diving deep into:
-
-- Distributed systems architecture and patterns
-
-- Performance optimization at scale
-
-- Advanced caching strategies
-
-- Implement system design concepts in code at scale
+## 🔗 Stuff I’ve Built – Right Here on ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+-  **Circuit Breaker for Microservices** – [**GitHub Repository**](https://github.com/sangleshubham/circuit-breaker-for-micro-services)
+	- **Technologies Used:** Node.js, Redis
+	- This repository demonstrates a **circuit breaker** pattern using Node.js and Redis. It contains multiple services that communicate with each other and keep track of their respective health statuses in real time.
 
  
