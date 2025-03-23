@@ -31,4 +31,8 @@ When it needs to scale on my system only **(Personal Projects)**</br>
 	- **Technologies Used:** Node.js, Redis
 	- This repository demonstrates a **circuit breaker** pattern using Node.js and Redis. It contains multiple services that communicate with each other and keep track of their respective health statuses in real time.
 
+-  **SSH File Explorer** – [**GitHub Repository**](https://github.com/sangleshubham/ssh-file-explorer)
+	- **Technologies Used:** Node.js, SSH
+	- A lightweight CLI tool for establishing SSH connections using **password or private key authentication**, with support for **exploring and downloading** files from the remote server. Effortlessly connect to servers via the terminal using flexible configuration options.
+
  
