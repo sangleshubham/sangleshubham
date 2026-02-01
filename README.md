@@ -9,7 +9,7 @@
 
 # Hi there! 👋
 
-I’m a developer with **3+ years** of experience, I've built systems from scratch, boosted performance, and picked up all sorts of new technologies along the way. One thing I've realised is that reading **research papers** is pretty powerful—but I only really remember what I learn when I create POC (Proof of Concept) projects for them. **That hands-on coding just sticks in my head!** ⚙️
+I’m a developer with **4+ years** of experience, I've built systems from scratch, boosted performance, and picked up all sorts of new technologies along the way. One thing I've realised is that reading **research papers** is pretty powerful—but I only really remember what I learn when I create POC (Proof of Concept) projects for them. **That hands-on coding just sticks in my head!** ⚙️
 
 - **I mostly code in JavaScript,** but trust me—that’s not the only **language** I know.
 - Spent some time as a bug bounty hunter, so I know how code can break when you overlook the underlying architecture—or rely too heavily on AI 🤖.
